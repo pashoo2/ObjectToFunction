@@ -1,2 +1,2 @@
 # ObjectToFunction
-allows to call Object() as a function
+allows to call Object() as a function, without a method Obvject.method()
